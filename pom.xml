@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
-  <artifactId>IterationDemo</artifactId>
+  <artifactId>Sample-DMN</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Iteration Demo</name>
+  <name>Sample-DMN</name>
   <description>Sample project showing how to iterate over a list</description>
   <dependencies>
     <dependency>
